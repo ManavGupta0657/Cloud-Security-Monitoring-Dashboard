@@ -2,7 +2,17 @@
 
 > A real-time cloud security operations dashboard built as a **Summer Internship Project** under the **Cloud Computing Specialization**. It simulates a production-grade Security Operations Center (SOC) with live threat detection, multi-region resource health tracking, network anomaly visualization, and IAM policy compliance scanning.
 
-🌐 **Live Demo:** [ManavGupta0657.github.io/cloud-security-dashboard](https://ManavGupta0657.github.io/cloud-security-dashboard)
+<div align="center">
+
+### 🔗 Quick Links
+
+| 🖥️ Landing Page | 📊 Live Dashboard | 💻 Source Code |
+|:---:|:---:|:---:|
+| [**View Site**](https://ManavGupta0657.github.io/cloud-security-dashboard) | [**Open Dashboard →**](https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html) | [**GitHub Repo**](https://github.com/ManavGupta0657/cloud-security-dashboard) |
+
+</div>
+
+> 📊 **Direct dashboard link:** https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html
 
 ---
 
@@ -47,8 +57,16 @@
 ```
 cloud-security-dashboard/
 │
-├── index.html          # Main dashboard (single-file app)
-└── README.md           # Project documentation
+├── index.html           # Landing page (hero + embedded dashboard preview)
+├── dashboard.html       # 🔴 Live SOC dashboard — full interactive interface
+├── backend.py           # Python Flask API (boto3 + AWS integration)
+├── threat_engine.cpp    # C++ anomaly detection engine (Z-score)
+└── README.md            # Project documentation
+
+> **Direct dashboard URL:**
+> ```
+> https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html
+> ```
 ```
 
 ---
