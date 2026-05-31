@@ -8,11 +8,11 @@
 
 | 🖥️ Landing Page | 📊 Live Dashboard | 💻 Source Code |
 |:---:|:---:|:---:|
-| [**View Site**](https://ManavGupta0657.github.io/cloud-security-dashboard) | [**Open Dashboard →**](https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html) | [**GitHub Repo**](https://github.com/ManavGupta0657/cloud-security-dashboard) |
+| [**View Site**](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard) | [**Open Dashboard →**](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html) | [**GitHub Repo**](https://github.com/ManavGupta0657/Cloud-Security-Monitoring-Dashboard) |
 
 </div>
 
-> 📊 **Direct dashboard link:** https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html
+> 📊 **Direct dashboard link:** https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html
 
 ---
 
@@ -65,7 +65,7 @@ cloud-security-dashboard/
 
 > **Direct dashboard URL:**
 > ```
-> https://ManavGupta0657.github.io/cloud-security-dashboard/dashboard.html
+> https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html
 > ```
 ```
 
@@ -77,10 +77,10 @@ No build tools or dependencies required — it's a pure HTML file.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ManavGupta0657/cloud-security-dashboard.git
+git clone https://github.com/ManavGupta0657/Cloud-Security-Monitoring-Dashboard.git
 
 # Navigate into the folder
-cd cloud-security-dashboard
+cd Cloud-Security-Monitoring-Dashboard
 
 # Open in browser
 open index.html        # macOS
