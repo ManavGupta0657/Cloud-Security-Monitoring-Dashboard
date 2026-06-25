@@ -196,4 +196,4 @@ GUARDDUTY_DETECTOR_ID=your_detector_id
 
 ---
 
-**Manav Gupta · Summer Internship 2025 · Cloud Computing Specialization**
+**Manav Gupta · Summer Internship 2026 · Cloud Computing Specialization**
