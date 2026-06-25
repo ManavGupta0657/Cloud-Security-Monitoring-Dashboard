@@ -1,0 +1,54 @@
+╔══════════════════════════════════════════════════════════╗
+║     Cloud Security Monitoring Dashboard                  ║
+║     Manav Gupta · Summer Internship 2025                 ║
+╚══════════════════════════════════════════════════════════╝
+
+HOW TO RUN ON YOUR LOCAL MACHINE
+══════════════════════════════════
+
+STEP 1 — Open terminal / command prompt
+   Navigate to this folder:
+   cd path/to/cloud-dashboard
+
+STEP 2 — Install dependencies (only needed once)
+   pip install -r requirements.txt
+
+STEP 3 — Start the server
+   Windows:   double-click START.bat  OR  python run_dashboard.py
+   Mac/Linux: bash START.sh           OR  python3 run_dashboard.py
+
+STEP 4 — Open your browser
+   http://localhost:8787/
+
+THAT'S IT! Dashboard will be live with:
+  ✓ Charts updating every second
+  ✓ API data refreshing every 4 seconds
+  ✓ Full dark neon design (same as GitHub Pages)
+  ✓ 9-page sidebar navigation
+  ✓ C++ Engine page
+  ✓ Live mode badge in header
+
+TO STOP: Press Ctrl+C in the terminal
+
+════════════════════════════════════════
+OPTIONAL: Connect real AWS data
+════════════════════════════════════════
+1. Copy .env.example → .env
+2. Fill in your AWS credentials in .env
+3. Restart: python run_dashboard.py
+4. Header will show "live AWS" instead of "flask:8787"
+
+════════════════════════════════════════
+FILE STRUCTURE
+════════════════════════════════════════
+cloud-dashboard/
+├── run_dashboard.py     ← LOCAL SERVER (run this)
+├── dashboard.html       ← Main 9-page dashboard
+├── index.html           ← Landing page
+├── backend.py           ← Flask backend (optional, for AWS)
+├── threat_engine.cpp    ← C++ anomaly engine (optional)
+├── requirements.txt     ← Python dependencies
+├── .env.example         ← AWS credentials template
+├── START.bat            ← Windows quick-start
+├── START.sh             ← Mac/Linux quick-start
+└── HOW_TO_RUN.txt       ← This file
