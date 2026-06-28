@@ -8,7 +8,7 @@
 
 | 🖥️ Landing Page | 📊 Live Dashboard | 💻 Source Code |
 |:---:|:---:|:---:|
-| [**View Site**](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard) | [**Open Dashboard →**](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html) | [**GitHub Repo**](https://github.com/ManavGupta0657/Cloud-Security-Monitoring-Dashboard) |
+| [**View Site**][(https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html)) | [**Open Dashboard →**](https://manavgupta0657.github.io/Cloud-Security-Monitoring-Dashboard/dashboard.html) | [**GitHub Repo**](https://github.com/ManavGupta0657/Cloud-Security-Monitoring-Dashboard) |
 
 </div>
 
